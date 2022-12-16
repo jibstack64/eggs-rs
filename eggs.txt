@@ -1,0 +1,8 @@
+NEW
+NAME:Jeffery
+LIFE:12
+TYPE:b
+NEW
+NAME:Eggy Boy
+LIFE:23
+TYPE:p
