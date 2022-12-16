@@ -76,7 +76,6 @@ fn main() {
             exit(1);
         }
     }
-
     // print eggy data
     for egg in egg_arr {
         println!("{}", pretty(format!("{:?}", egg).as_str(), false));
